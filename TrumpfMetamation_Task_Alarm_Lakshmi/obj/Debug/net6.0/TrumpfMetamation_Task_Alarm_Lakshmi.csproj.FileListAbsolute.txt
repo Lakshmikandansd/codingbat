@@ -1,0 +1,5 @@
+C:\Users\Interview\source\repos\TrumpfMetamation_Task_Alarm_Lakshmi\obj\Debug\net6.0\TrumpfMetamation_Task_Alarm_Lakshmi.csproj.AssemblyReference.cache
+C:\Users\Interview\source\repos\TrumpfMetamation_Task_Alarm_Lakshmi\obj\Debug\net6.0\TrumpfMetamation_Task_Alarm_Lakshmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interview\source\repos\TrumpfMetamation_Task_Alarm_Lakshmi\obj\Debug\net6.0\TrumpfMetamation_Task_Alarm_Lakshmi.AssemblyInfoInputs.cache
+C:\Users\Interview\source\repos\TrumpfMetamation_Task_Alarm_Lakshmi\obj\Debug\net6.0\TrumpfMetamation_Task_Alarm_Lakshmi.AssemblyInfo.cs
+C:\Users\Interview\source\repos\TrumpfMetamation_Task_Alarm_Lakshmi\obj\Debug\net6.0\TrumpfMetamation_Task_Alarm_Lakshmi.csproj.CoreCompileInputs.cache

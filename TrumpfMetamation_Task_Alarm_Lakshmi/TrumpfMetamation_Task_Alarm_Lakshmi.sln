@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpfMetamation_Task_Alarm_Lakshmi", "TrumpfMetamation_Task_Alarm_Lakshmi.csproj", "{EA0F572B-805E-4B3E-B02A-5D09C78912B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0F572B-805E-4B3E-B02A-5D09C78912B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0F572B-805E-4B3E-B02A-5D09C78912B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0F572B-805E-4B3E-B02A-5D09C78912B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0F572B-805E-4B3E-B02A-5D09C78912B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
